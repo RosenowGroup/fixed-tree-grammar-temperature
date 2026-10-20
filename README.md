@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2610._-B31B1B.svg)](https://arxiv.org/abs/2610.24334)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2610.24334-B31B1B.svg)](https://arxiv.org/abs/2610.24334)
 
 # Power-Law Correlations Without Apparent Temperature-Tuned Criticality in Fixed-Tree Hierarchical Languages
 
