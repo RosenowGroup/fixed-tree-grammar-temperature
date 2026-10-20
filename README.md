@@ -1,10 +1,10 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2610._-B31B1B.svg)](https://arxiv.org/abs/2610._)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2610._-B31B1B.svg)](https://arxiv.org/abs/2610.24334)
 
 # Power-Law Correlations Without Apparent Temperature-Tuned Criticality in Fixed-Tree Hierarchical Languages
 
 Marcel Kühn, Bernd Rosenow
 
-[arXiv:2610._](https://arxiv.org/abs/2610._)
+[arXiv:2610.24334](https://arxiv.org/abs/2610.24334)
 
 ### Abstract
 Sampling temperature can substantially reshape autoregressive generation, but it is unclear when temperature changes in long-range correlations reflect a genuine phase transition rather than a smooth change in statistics. We study this question in a controlled analogue of temperature sampling: a finite-depth probabilistic context-free grammar on a fixed hierarchical tree, where exact next-token conditionals are computed by belief propagation and then rescaled by a softmax temperature before autoregressive sampling. We measure two-point mutual information between tokens as a function of separation. Across the tested temperatures and grammar ensembles, mutual information remains well described by a power-law envelope. Temperature changes the correlation magnitude and fitted exponent, but within the accessible system sizes we find no long-distance plateau characteristic of an ordered phase and no clear crossover to short-range exponential decay.
